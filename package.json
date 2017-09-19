@@ -1,0 +1,17 @@
+{
+  "name": "Internationalised",
+  "description": "Web interface for language files",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "1.14.2",
+    "compass": "^0.1.1",
+    "express": "3.x",
+    "glob": "6.0.4",
+    "handlebars": "^4.0.5",
+    "mysql": "2.10.2",
+    "properties": "1.2.1",
+    "request": "2.69.0",
+    "memcached": "2.2.2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Night Watch Tests",
+  "description": "Acceptance Tests",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "nightwatch": "0.9.16",
+    "chromedriver": "^2.31.0"
+  }
+}
